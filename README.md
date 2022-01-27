@@ -7,4 +7,4 @@ A list of my Projects where I have implemented using Artificial Intelligence (AI
 
 3. Chatbot using NLP   https://github.com/sagnik765/Chatbot-using-NLP
 
-4. Basic Chatbot using Chatterbot module   https://github.com/sagnik765/A-Basic-Chatbot
+4. Chatbot using Chatterbot module   https://github.com/sagnik765/A-Basic-Chatbot
